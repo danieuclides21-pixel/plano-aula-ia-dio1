@@ -112,9 +112,73 @@ Diretrizes obrigatórias:
 - Utilizar linguagem clara, acessível e adequada ao 3º ano dos Anos Iniciais;
 - Garantir caráter inclusivo, pedagógico e ético;
 - Não incluir dados pessoais;
-- Apresentar adaptações viáveis para aplicação em sala de aula.
 
-O texto final deve estar pronto para uso pedagógico e para documentação em repositório GitHub.
+# Prompts 6 – Auditoria Ética de Projeto Educacional com IA
+
+Tarefa:
+Faça uma auditoria ética completa do projeto “Gênero textual Convite”, considerando o uso de Inteligência Artificial aplicada à educação.
+
+A auditoria deve analisar e descrever, de forma clara e organizada, os seguintes pontos:
+
+Riscos relacionados a dados pessoais
+
+Identifique se há coleta, uso ou exposição de dados pessoais de estudantes ou professores.
+
+Descreva estratégias de anonimização, prevenção de riscos e conformidade com a LGPD no contexto escolar.
+
+Direitos autorais e propriedade intelectual
+
+Analise a necessidade de citação, licença ou autorização para textos, imagens, gráficos e exemplos utilizados.
+
+Indique boas práticas para evitar violação de direitos autorais.
+
+Possíveis vieses
+
+Identifique vieses potenciais em exemplos, atividades ou contextos (culturais, sociais, econômicos ou cognitivos).
+
+Proponha alternativas pedagógicas para mitigar esses vieses.
+
+Transparência no uso da Inteligência Artificial
+
+Registre claramente onde a IA foi utilizada (planejamento, materiais, avaliação, apresentação etc.).
+
+Explique qual foi a revisão humana aplicada e como o professor manteve a mediação pedagógica.
+
+Em seguida, entregue um CHECKLIST FINAL MARCÁVEL, confirmando se o projeto contém:
+
+☐ Plano completo com seções e marcação [Assistido por IA]
+
+☐ Materiais prontos (textos, exercícios e atividade prática)
+
+☐ Adaptação pedagógica para dois perfis de estudantes
+
+☐ Inclusão de trecho traduzido (Inglês – CEFR A2)
+
+☐ Apresentação em .pptx gerada
+
+☐ README.md com links e reflexão crítica incluídos
+
+☐ Nomes de arquivos padronizados corretamente
+
+Plano_de_Aula_IA.pdf / .docx
+
+Apresentacao_Aula_IA.pptx
+
+☐ Conformidade com privacidade, direitos autorais e rubrica de avaliação
+
+Critérios importantes:
+
+Linguagem clara, formal e pedagógica
+
+Foco em ética, educação básica e uso responsável de IA
+
+Não incluir dados pessoais reais
+
+Considerar a IA como apoio, não substituição do professor
+
+Formato da resposta:
+Texto estruturado em seções + checklist final.
+- Apresentar adaptações viáveis para aplicação em sala de aula.
 
 
 
